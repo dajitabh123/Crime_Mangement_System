@@ -1,7 +1,7 @@
 
 # Crime-Information-Management-System
 
-This project is developed by Falgun Manoj Bokde
+This project is developed by Ajitabh Dash
 
 
 ## About
